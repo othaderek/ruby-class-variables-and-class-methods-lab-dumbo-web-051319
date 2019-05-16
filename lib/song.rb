@@ -47,5 +47,3 @@ module Enumerable
   end
 end
 
-
-# select {|v| v =~ /[aeiou]/ }
